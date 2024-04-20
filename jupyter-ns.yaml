@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata: 
+  name: jupyter
+  annotations: 
+    desc: "Namespace for Jupyter Notebook Application"
+    proj: "Final Project K8s Course"
+    owner: "Nadolu Alexandru"
+    phone: "+40 763 943 259"
+
